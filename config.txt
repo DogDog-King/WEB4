@@ -11,6 +11,8 @@
 
 # 信息配置
 # 所在省份
+# 和风天气apikey
+"weather_key": "5fff4358a8ad4526a89f08b042faf90f",
 "province": "山东",
 # 所在城市
 "city": "青岛",
